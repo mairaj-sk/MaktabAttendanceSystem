@@ -1,4 +1,6 @@
 # MaktabAttendanceSystem
+This project is based on real world attendance system to manage the class and student for login as Admin or teacher please E-mail me on this for lgoin credentials mairajshaikh1526@gmail.com
+
 A cloud-based attendance management system built using AWS Lambda, API Gateway, DynamoDB, S3, Python, HTML, CSS and JavaScript.
 
 # Maktab Attendance Management System
